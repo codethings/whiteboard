@@ -564,3 +564,6 @@ MigrationBackup/
 .vim
 
 db.sqlite3
+
+!web/src/lib
+
